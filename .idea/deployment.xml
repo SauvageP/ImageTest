@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="CloudPlug">
+    <serverData>
+      <paths name="CloudPlug">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Core Java Volume 1/Chapter 7/ImageTest" local="$PROJECT_DIR$" web="Core Java Volume 1/Chapter 7/ImageTest/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
